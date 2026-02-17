@@ -4,3 +4,4 @@ Add Flask backend app.py
 Create templates folder
 Add index.html
 Add notes.html
+Create static folder
