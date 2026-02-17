@@ -5,3 +5,4 @@ Create templates folder
 Add index.html
 Add notes.html
 Create static folder
+Add style.css
